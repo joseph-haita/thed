@@ -1,2 +1,2 @@
 # thed
-experimental
+experimental 64 bit hobbyist operating system kernel
